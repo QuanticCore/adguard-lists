@@ -1,1 +1,2 @@
 ||*.playit.plus^
+||mcpvp.club^
