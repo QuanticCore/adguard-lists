@@ -1,2 +1,3 @@
 ||cdn.iubenda.com^
 ||idb.iubenda.com^
+||cs.iubenda.com^
